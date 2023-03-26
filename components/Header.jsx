@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import Link from 'next/link';
 
-const categories=[{name:'React',slug:'react'},{name:'Web Development',slug:'web-dev'}]
+const categories=[{name:'PCB Fabrication',slug:'pcb-fab'},{name:'3D Printing',slug:'print'},{name:'IoT Projects',slug:'projects'},{name:'Workshops',slug:'workshops'}]
 
 const Header = () => {
 
